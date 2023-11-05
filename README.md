@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there! 👋
+
+I'm Tommy Kronkvist, a Swedish chess enthusiast, Macintosh aficionado and amateur ichthyologist.
+
+I'm currently one of 6 _bureaucrats_ at **Wikispecies** (thus also one of their 27 regular administrators) and as of this writing one of their only two _interface administrators_. I'm also one of three admins of the Swedish language version of **Wikivoyage** and one of 19 admininistrators at **Wikimedia Sverige** ("WMSE"), the Swedish national **Wikimedia Foundation** chapter that hosted the 2019 _Wikimania Conference_ in Stockholm.
+
+I'm registered at **Phabricator**, a development collaboration tool used for Wiki software development.
 
 <!--
 **PixelHermit/PixelHermit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
